@@ -1,5 +1,7 @@
 <h1>Formulario de inicio de sesión inspirado en Facebook</h1>
 
+<img src="ruta-de-la-imagen" alt="Vista previa del formulario de inicio de sesión inspirado en Facebook">
+
 <p>Este proyecto presenta un formulario de inicio de sesión inspirado en la interfaz de Facebook, implementado en React. Proporciona una estructura básica para construir formularios de inicio de sesión similares y está diseñado para ser fácilmente personalizable y extensible.</p>
 
 <h2>Instalación</h2>
