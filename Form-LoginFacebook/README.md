@@ -1,30 +1,29 @@
-# Formulario de inicio de sesión inspirado en Facebook
+<h1>Formulario de inicio de sesión inspirado en Facebook</h1>
 
-Este proyecto presenta un formulario de inicio de sesión inspirado en la interfaz de Facebook, implementado en React. Proporciona una estructura básica para construir formularios de inicio de sesión similares y está diseñado para ser fácilmente personalizable y extensible.
+<p>Este proyecto presenta un formulario de inicio de sesión inspirado en la interfaz de Facebook, implementado en React. Proporciona una estructura básica para construir formularios de inicio de sesión similares y está diseñado para ser fácilmente personalizable y extensible.</p>
 
-## Instalación
+<h2>Instalación</h2>
 
-Sigue estos pasos para ejecutar el proyecto de forma local:
+<p>Sigue estos pasos para ejecutar el proyecto de forma local:</p>
 
-1. Clona el repositorio en tu máquina local:
+<ol>
+  <li>Clona el repositorio en tu máquina local:</li>
+  
+  <pre><code>git clone https://github.com/tu-usuario/nombre-del-repositorio.git</code></pre>
+  
+  <li>Navega al directorio del proyecto:</li>
+  
+  <pre><code>cd nombre-del-repositorio</code></pre>
+  
+  <li>Instala las dependencias:</li>
+  
+  <pre><code>yarn install</code></pre>
+</ol>
 
+<h2>Ejecución</h2>
 
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git bash
+<p>Una vez que hayas instalado las dependencias, puedes ejecutar el proyecto con el siguiente comando:</p>
 
-   Navega al directorio del proyecto:
+<pre><code>yarn start</code></pre>
 
-
-
-cd nombre-del-repositorio
-Instala las dependencias:
-
-
-
-yarn install
-Ejecución
-Una vez que hayas instalado las dependencias, puedes ejecutar el proyecto con el siguiente comando:
-
-
-
-yarn start
-Esto iniciará la aplicación en modo de desarrollo. Abre http://localhost:3000 en tu navegador para ver el formulario de inicio de sesión.
+<p>Esto iniciará la aplicación en modo de desarrollo. Abre <a href="http://localhost:3000">http://localhost:3000</a> en tu navegador para ver el formulario de inicio de sesión.</p>
